@@ -16,7 +16,6 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
 - Currently learning Web and Mobile Development by Self
 - CEO and founder of BLTeech
 - Company website [BLTeech](https://blteech.com/)
