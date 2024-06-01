@@ -8,7 +8,12 @@
 
 <br>
 
+## <picture></picture> Certifications 🚀
 
+
+<div align="center">
+<a href="https://www.credly.com/badges/ddbd6c07-8aad-4d8f-921b-3c2f8a2cddc2" target="_blank"> <img aling="center" width="100" height="100" src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" style="text-decoration:none;"></a>
+</div>
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
